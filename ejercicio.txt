@@ -1,0 +1,4 @@
+Crear nuevo repo
+Crear rama main con 4 commits
+Crear rama feature con 2 commits
+Mergear rama feature en main
